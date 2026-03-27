@@ -1,0 +1,5 @@
+comprar 5kg de maçã = x desconto
+comprar até 5kg de banana = 10% desconto
+a partir de 5kg de banana = 20% desconto
+parcelado = sem desconto extra
+a vista = 10% desconto em cima do preço com desconto
